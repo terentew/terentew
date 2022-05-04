@@ -1,4 +1,8 @@
-### Hi there 👋
+## Добро пожаловать! :cherry_blossom:
+Меня зовут Александр. С мая 2020 года я - инженер по тестированию программного обеспечения.</br>
+
+
+
 
 <!--
 **terentew/terentew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
