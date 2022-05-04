@@ -1,7 +1,14 @@
 ## Добро пожаловать! :cherry_blossom:
 Меня зовут Александр. С мая 2020 года я - инженер по тестированию программного обеспечения.</br>
 
-
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="bottom"><img src="/images/TSU80.jpg"></td><td valign="middle">Московский институт электроники и математики.</br>Факультет электроники.</br>Инженер.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/FDO80.jpg"></td><td valign="middle"Российский экономический университет имени Г. В. Плеханова.</br>Факультет дополнитеьного образования.</br>Тестирование информационных систем и программного обеспечения. </td>
+    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
+  </br>
 
 
 <!--
